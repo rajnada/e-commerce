@@ -1,0 +1,25 @@
+[type="file"] {
+    height: 0;
+    overflow: hidden;
+    width: 0;
+  }
+  
+  /* [type="file"] + label {
+    font-size: 14px;
+    line-height: 1.42857;
+    color: white;
+    font-weight: 400;
+    border: 1px solid #00acc1;
+    padding: 8px;
+    background: #00acc1;
+    cursor: pointer;
+  } */
+
+ .upload-btn {
+    margin-left: 25px;
+    padding: 10px;
+    background: #d06969;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+  }
